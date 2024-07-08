@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Sandro-s-workspace-gu1of9.eu-west-1.xata.sh/db/waitlist",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

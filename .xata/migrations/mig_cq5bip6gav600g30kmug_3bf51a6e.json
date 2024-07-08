@@ -1,0 +1,11 @@
+{
+  "id": "mig_cq5bip6gav600g30kmug",
+  "checksum": "1:3bf51a6e32c49d361a25aa9ac444d7bf886950ac223deaf638aaa59d5beecbec",
+  "operations": [
+    {
+      "addTable": {
+        "table": "users"
+      }
+    }
+  ]
+}
