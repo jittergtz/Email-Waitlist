@@ -1,3 +1,14 @@
+![image](https://github.com/jittergtz/Email-Waitlist/assets/110451040/52ef7303-2254-4048-b241-f5a743af7331)
+
+
+![image](https://github.com/jittergtz/Email-Waitlist/assets/110451040/33b210f2-1f2e-4381-adf8-529be1239e13)
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
