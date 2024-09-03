@@ -4,7 +4,7 @@ import { div } from "three/examples/jsm/nodes/Nodes.js";
 
 export default function SuccessPage() {
     return (
-        <div className="flex justify-center">
+        <div className="flex justify-center w-full relative overflow-hidden">
         <div className="w-full max-w-5xl" >
       <div className="flex  flex-col gap-5 justify-center items-start h-screen p-5 ">
      
